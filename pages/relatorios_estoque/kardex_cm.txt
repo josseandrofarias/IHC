@@ -1,18 +1,17 @@
     <!-- Main content -->
-    <section class="content">
-
       <section class="content-header">
-      <h1 style="color: #ffffff">
-        Saldo de Estoque
+      <h1>
+        Kardex Custo Médio
 
       </h1>
   
       <ol class="breadcrumb">
         <li><a href="#"><i class="fa fa-dashboard"></i> Estoque</a></li>
-        <li class="active">Saldo</li>
+        <li class="active">Kardex</li>
       </ol>
     </section>
 
+    <section class="content">
       <!-- SELECT2 EXAMPLE -->
       <div class="box box-default">
         <div class="box-header with-border">

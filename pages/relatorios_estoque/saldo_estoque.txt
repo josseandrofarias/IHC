@@ -1,8 +1,6 @@
     <!-- Main content -->
-    <section class="content">
-
       <section class="content-header">
-      <h1 style="color: #ffffff">
+      <h1">
         Saldo de Estoque
 
       </h1>
@@ -13,6 +11,7 @@
       </ol>
     </section>
 
+    <section class="content">
       <!-- SELECT2 EXAMPLE -->
       <div class="box box-default">
         <div class="box-header with-border">
